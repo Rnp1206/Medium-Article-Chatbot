@@ -4,7 +4,7 @@
 I am currently working on way more complex RAG related app, within a few months that repo will be published and the main project on my profile will be replaced. 
 
 ## Description
-The RAG LLM Project is an artificial intelligence system that utilizes RAG (Retrieval-Augmented Generation) and LLM (Large Language Model) to provide answers to questions regarding data from Medium articles. This system enables quick search and content generation based on the given queries.
+The Medium Article Chatbot Project is an artificial intelligence system that utilizes RAG (Retrieval-Augmented Generation) and LLM (Large Language Model) to provide answers to questions regarding data from Medium articles. This system enables quick search and content generation based on the given queries.
 
 ## Requirements
 To run the project, you need to have Python and pip installed. The project also relies on the requirements.txt file, which contains all the necessary dependencies.
