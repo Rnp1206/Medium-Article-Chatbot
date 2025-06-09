@@ -1,4 +1,4 @@
-# RAG LLM Project
+# Medium Article Chatbot
 
 ## FYI
 I am currently working on way more complex RAG related app, within a few months that repo will be published and the main project on my profile will be replaced. 
